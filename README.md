@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there, I'm Shivani👩‍💻
 
-<!--
-**Shivani-exe/Shivani-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I  share knowledge through my code, articles, posts and talks💙️.
 
-Here are some ideas to get you started:
+👨‍💻 I’m currently learning Full Stack Web Developement.
+👨‍💻 Earned Certificate at HackerRank in Problem Solving (basic).
+👨‍💻 I like to showcase my work, check it out here : [Projects](https://shivani-narang-portfolio.netlify.app/projects.html)
+📄 Want to hire me? Check out my [Resume](https://drive.google.com/drive/my-drive)
+📫 How to reach me [Mail](shivaninarang20@gmail.com)
+⚡ Fun facts : I am big football fan #gochelsea.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Connect with me:
