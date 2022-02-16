@@ -30,7 +30,7 @@ I  share knowledge through my code, articles, posts and talks💙️.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-exe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Shivani-exe/Shivani-exe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutvikpumak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shivani's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivani-exe&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shivani's GitHub Stats" />
 </a>
 </div>
 <br>
