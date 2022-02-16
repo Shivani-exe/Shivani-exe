@@ -2,12 +2,12 @@ Hi there, I'm Shivani👩‍💻
 
 I  share knowledge through my code, articles, posts and talks💙️.
 <p>
-👨‍💻 I’m currently learning Full Stack Web Developement.
-👨‍💻 Earned Certificate at HackerRank in Problem Solving (basic).
-👨‍💻 I like to showcase my work, check it out here : [Projects](https://shivani-narang-portfolio.netlify.app/projects.html)
-📄 Want to hire me? Check out my [Resume](https://drive.google.com/drive/my-drive)
-📫 How to reach me [Mail](shivaninarang20@gmail.com)
-⚡ Fun facts : I am big football fan #gochelsea.
+👨‍💻 I’m currently learning Full Stack Web Developement.<br>
+👨‍💻 Earned Certificate at HackerRank in Problem Solving (basic).<br>
+👨‍💻 I like to showcase my work, check it out here : [Projects](https://shivani-narang-portfolio.netlify.app/projects.html).<br>
+📄 Want to hire me? Check out my [Resume](https://drive.google.com/drive/my-drive).<br>
+📫 How to reach me [Mail](shivaninarang20@gmail.com).<br>
+⚡ Fun facts : I am big football fan #gochelsea.<br>
 </p>
 <br>
 
@@ -19,7 +19,7 @@ I  share knowledge through my code, articles, posts and talks💙️.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"width="50" height="50" />
+
   </p>
 <br>  
  
