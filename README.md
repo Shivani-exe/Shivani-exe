@@ -6,7 +6,7 @@ I  share knowledge through my code, articles, posts and talks💙️.
 👨‍💻 Earned Certificate at HackerRank in Problem Solving (basic).<br>
  💬 Hit me up, for discussions regarding HTML, CSS, JavaScript and ReactJs.<br>
 👨‍💻 I like to showcase my work, check it out here : [Projects](https://shivani-narang-portfolio-reactjs.netlify.app/).<br>
-📄 Want to hire me? Check out my [Resume](https://drive.google.com/file/d/1m3LNUN4UrEuyAdv9ykmVYlOGvY0amX_q/view?usp=sharing).<br>
+📄 Want to hire me? Check out my [Resume](https://drive.google.com/file/d/1MZKEPuJvsbjkWwvSSITj5CMrcelw4wq-/view?usp=sharing).<br>
 📫 How to reach me [Mail](shivaninarang20@gmail.com).<br>
 ⚡ Fun facts : I am big football fan #gochelsea.<br>
 </p>
