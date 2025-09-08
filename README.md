@@ -16,11 +16,11 @@ I’m a **Master’s student in Data Analytics & Information Systems at Texas St
 
 🔗 Explore My Work:  
 - 🛠 [Projects Portfolio](https://shivani-narang-portfolio-reactjs.netlify.app/)  
-- 📄 [Resume](https://drive.google.com/file/d/1PmdLis_zqqvDfovzCtQGWaX5gJkHgnTR/view?usp=sharing)  
+- 📄 [Resume](https://drive.google.com/file/d/1v-xU8rGEw_elj1Ttq1AuHybkjfe1hAcq/view?usp=sharing)  
 
 📫 Let’s Connect:  
 - 📧 [Email](mailto:shivaninarang20@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivani-narang-exe)  
 - 🐙 GitHub: You’re already here 😉  
 
 ⚡ Fun Fact: Huge football fan – #GoChelsea  
